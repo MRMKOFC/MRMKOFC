@@ -2,7 +2,7 @@
 
 # MK
 
-**Data Science Engineering Student | Full-Stack Developer**  
+**Data Science Engineering Student | Developer**  
 📍 Hyderabad, India
 
 ---
@@ -13,13 +13,13 @@
 
 ### **B.Tech in Computer Science (Data Science Engineering)**
 **CMR Engineering College, Hyderabad**  
-*2025 - 2028 (Expected)*  
+*2025 - 2028 *  
 Specialization: Machine Learning, Big Data Analytics, Artificial Intelligence
 
 ### **Diploma in Computer Science Engineering**
 **Completed in 2025**  
 *2022 - 2025*  
-Focus: Software Development, Database Systems, Web Technologies
+Focus: Software Development, Database Systems, Web Technologies, 
 
 ---
 
@@ -27,7 +27,7 @@ Focus: Software Development, Database Systems, Web Technologies
 
 | **Area** | **Technologies** |
 |----------|-----------------|
-| **Programming** | Python, JavaScript, Java, C++ |
+| **Programming** | Python, JavaScript, Java, C++, Html,c,.net, |
 | **Data Science** | Pandas, NumPy, Scikit-learn, TensorFlow |
 | **Web Development** | React, Node.js, FastAPI, MongoDB |
 | **DevOps** | Docker, Git, AWS, Linux |
@@ -46,24 +46,21 @@ Focus: Software Development, Database Systems, Web Technologies
 
 ## 💼 **Project Highlights**
 
-### **🔒 SecureStego**  
+### **🔒 Image steganography**  
 *Advanced steganography application for secure communication*  
-Python • OpenCV • Cryptography • GUI
+Python • OpenCV • Cryptography • GUI • JavaScript •Html,css.
 
-### **🎮 GameSphere API**  
+### **🎮 Games API**  
 *Scalable backend for gaming platforms*  
-FastAPI • MongoDB • Redis • Docker
+FastAPI • MongoDB • Redis • Docker •Python • Network Intercepting 
 
-### **📈 Data Analytics Dashboard**  
-*Interactive data visualization platform*  
-React • Python • D3.js • PostgreSQL
 
 ---
 
 ## 📬 **Connect**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)]()
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail)](mailto: puttamohithkrishnaa@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)](https://github.com/MRMKOFC)
 
 ---
