@@ -38,7 +38,7 @@ Focus: Software Development, Database Systems, Web Technologies,
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohithkrishnaa-dev&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats]()
 
 </div>
 
