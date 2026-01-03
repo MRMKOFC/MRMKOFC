@@ -78,14 +78,6 @@ Designed strictly for educational and personal use.
 
 ---
 
-## 🔗 Connect
-
-- GitHub: https://github.com/mohithkrishnaa-dev  
-- LinkedIn: *(add only if actively maintained)*  
-
-
----
-
 ### Notes
 
 - Projects focus on **automation, inspection tools, and backend logic**
