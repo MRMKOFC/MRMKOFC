@@ -39,9 +39,6 @@ CMR Engineering College, Hyderabad
 
 ---
 
-## 📊 GitHub Overview
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohithkrishnaa-dev&show_icons=true&theme=dark&cache_seconds=86400)
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=mohithkrishnaa-dev&label=👁‍🗨%20Profile%20Views&color=0078ff&style=for-the-badge) 
