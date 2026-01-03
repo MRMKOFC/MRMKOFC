@@ -82,7 +82,7 @@ Designed strictly for educational and personal use.
 
 - GitHub: https://github.com/mohithkrishnaa-dev  
 - LinkedIn: *(add only if actively maintained)*  
-- Email: puttamohithkrishnaa@gmail.com
+
 
 ---
 
